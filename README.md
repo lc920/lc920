@@ -1,8 +1,8 @@
-### Salut ! 👋 Je suis Luciano Cataldo
+### Salut 👋 ! Je m'appelle Luciano Cataldo
 
 Bienvenue sur mon profil GitHub ! 
 
-Je suis passionné par la cybersécurité car elle me permet de relever des défis quotidennement tout en protégeant les données sensibles des individus et des entreprises. 
+Je suis passionné par la cybersécurité car elle me permet de relever des défis quotidennement tout en protégeant les données sensibles des individus et des entreprises. Aider les gens m'aide à me sentir utile et donne un sens à mon travail.
 
 ---
 
@@ -36,7 +36,6 @@ Je suis passionné par la cybersécurité car elle me permet de relever des déf
 ---
 
 ### 📫 Me contacter
-- **Email :** lucianocataldo.pro@gmail.com
 - **LinkedIn :** [Luciano Cataldo](https://www.linkedin.com/in/luciano-cataldo)
 - **TryHackMe :** [LucianoCataldo](https://tryhackme.com/p/lucianocataldo.p)
 
